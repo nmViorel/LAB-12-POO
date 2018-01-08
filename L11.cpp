@@ -1,6 +1,9 @@
 #include <iostream>
 #include <vector>
 
+
+// AM ADAUGAT UN COMENTARIU 
+
 using namespace std;
 
 template<typename T>
@@ -53,5 +56,7 @@ int main() {
 			cout << st.top() << "\n";
 			st.pop();
 		}
+	
+	cout << "Mesaj de test\n";
 	return 0;
 }
