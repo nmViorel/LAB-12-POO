@@ -33,6 +33,7 @@ public:
     void setImaginary(float i){
         this->i = i;
     }
+    /// GATA AM REZOLVAT
 
     Complex sum(Complex a){
         Complex suma(this->r + a.getReal(), this->i + a.getImaginary());
@@ -103,3 +104,4 @@ int main(){
     a.equalityChecker(b);
     return 0;
 }
+// SCHIMBARE DE TEST 
