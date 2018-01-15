@@ -103,3 +103,4 @@ int main(){
     a.equalityChecker(b);
     return 0;
 }
+// SCHIMBARE DE TEST 
